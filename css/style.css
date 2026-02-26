@@ -52,7 +52,7 @@ color:var(--accent);
 .hero{
 height:100vh;
 background:linear-gradient(rgba(15,23,42,.85),rgba(15,23,42,.85)),
-url('https://images.unsplash.com/photo-1503387762-592deb58ef4e');
+url('https://images.ctfassets.net/09muo917z9ra/Hhw5vQoPmIzCQnuGoxFer/35c7c36d50dafcbc23e60e9d19ba5c29/IMG-20260224-WA0024.jpg');
 background-size:cover;
 background-position:center;
 display:flex;
